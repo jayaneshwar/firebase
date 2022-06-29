@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase/static/css/main.e6c13ad2.css",
+    "main.js": "/firebase/static/js/main.c53f7936.js",
+    "static/js/787.9526ae0e.chunk.js": "/firebase/static/js/787.9526ae0e.chunk.js",
+    "index.html": "/firebase/index.html",
+    "main.e6c13ad2.css.map": "/firebase/static/css/main.e6c13ad2.css.map",
+    "main.c53f7936.js.map": "/firebase/static/js/main.c53f7936.js.map",
+    "787.9526ae0e.chunk.js.map": "/firebase/static/js/787.9526ae0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c53f7936.js"
+  ]
+}
